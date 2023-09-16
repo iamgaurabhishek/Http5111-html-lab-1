@@ -1,2 +1,2 @@
 # html-lab-1
-HTML | First Lab of JS
+HTML | First Lab of HTML
